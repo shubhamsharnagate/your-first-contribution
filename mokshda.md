@@ -47,7 +47,6 @@ Along with core electrical subjects, I actively explore **software tools and web
 ## 🛠️ Soft Skills
 - Willingness to learn new technologies  
 - Good documentation and explanation skills  
-- Time management and consistency  
 - Ability to understand requirements and follow instructions  
 - Team-friendly and disciplined learner  
 
